@@ -14,4 +14,4 @@ The workflow consists of serveral steps:
 
 
 The first tree parts of the workflow are already implemented in the [DataAcquisition](https://github.com/DiegoConce/DigitalTwins/blob/master/DataAcquisition.ipynb) notebook, while the last two steps are in the [Rag](https://github.com/DiegoConce/DigitalTwins/blob/master/Rag.ipynb) notebook. 
-There is a [Log](https://github.com/DiegoConce/DigitalTwins/blob/master/rag_query_results_log.txt) file that contains the results of the queries made by the user, which can be used to analyze the performance of the system and to improve it in the future.
+There is a [Log](https://github.com/DiegoConce/DigitalTwins/blob/master/datasets_results_log.txt) file that contains the results of the queries made by the user, which can be used to analyze the performance of the system and to improve it in the future.
