@@ -13,5 +13,23 @@ The workflow consists of serveral steps:
 5. **Ranking and Filtering**: Rank and filter the retrieved models based on their relevance to the user query, considering additional metadata such as downloads, likes, and publication date.
 
 
-The first tree parts of the workflow are already implemented in the [DataAcquisition](https://github.com/DiegoConce/DigitalTwins/blob/master/DataAcquisition.ipynb) notebook, while the last two steps are in the [Rag](https://github.com/DiegoConce/DigitalTwins/blob/master/Rag.ipynb) notebook. 
-There is a [Log](https://github.com/DiegoConce/DigitalTwins/blob/master/datasets_results_log.txt) file that contains the results of the queries made by the user, which can be used to analyze the performance of the system and to improve it in the future.
+The first tree parts of the workflow are already implemented in the [DatasetAcquisition](https://github.com/DiegoConce/DigitalTwins/blob/master/DataAcquisition.ipynb) notebook and [ModelsAcquisition](https://github.com/DiegoConce/DigitalTwins/blob/master/ModelsAcquisition.ipynb) Notebook, while the last two steps are in the [Rag](https://github.com/DiegoConce/DigitalTwins/blob/master/Rag.ipynb) notebook. 
+
+---
+
+### Results Directory
+
+The [Results](https://github.com/DiegoConce/DigitalTwins/tree/master/Results) directory contains the output of the RAG system, including:
+
+- `datasets_results.txt` – RAG results for Hugging Face dataset metadata using standard (unweighted) embeddings.
+- `datasets_results_weighted_emb.txt` – RAG results for Hugging Face dataset metadata using **weighted** embeddings.
+- `models_results.txt` – RAG results for Hugging Face model metadata using standard (unweighted) embeddings.
+- `models_results_weighted_emb.txt` – RAG results for Hugging Face model metadata using **weighted** embeddings.
+
+
+
+
+
+
+
+
