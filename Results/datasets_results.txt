@@ -1,0 +1,1715 @@
+
+--- Query 1: Which datasets are best for sentiment analysis in Italian? ---
+
+Taraassss/sentiment_analysis_IT_dataset | score: 0.6540
+Author: Taraassss
+Task Categories: ['text-classification']
+ReadmeFile, first 500 characters: # Dataset: sentiment_analysis-IT-dataset
+
+## Dataset Description
+
+Our data has been collected by annotating tweets on Italian language from a broad range of topics. In total, we have 2037 tweets annotated with an emotion label. More details can be found in our paper (https://aclanthology.org/2021.wassa-1.8/).
+
+### Languages
+
+The BCP-47 code for the dataset's language is it.
+
+## Dataset Structure
+
+### Data Instances
+
+@inproceedings{bianchi2021feel,
+    title = {{"Sentiment Classification for the 
+--------------------------------------------------
+
+SEACrowd/smsa | score: 0.5603
+Author: SEACrowd
+Task Categories: ['sentiment-analysis']
+ReadmeFile, first 500 characters: SmSA is a sentence-level sentiment analysis dataset (Purwarianti and Crisdayanti, 2019) is a collection of comments and reviews
+in Indonesian obtained from multiple online platforms. The text was crawled and then annotated by several Indonesian linguists
+to construct this dataset. There are three possible sentiments on the SmSA dataset: positive, negative, and neutral
+
+## Languages
+
+ind
+
+## Supported Tasks
+
+Sentiment Analysis
+
+## Dataset Usage
+### Using  library
+
+### Using  library
+
+More details
+--------------------------------------------------
+
+clapAI/MultiLingualSentiment | score: 0.5434
+Author: clapAI
+Task Categories: ['text-classification']
+ReadmeFile, first 500 characters: ## Overview
+**MultilingualSentiment** is a sentiment classification dataset that encompasses three sentiment labels: **Positive**, **Neutral**, **Negative**
+
+The dataset spans multiple languages and covers a wide range of domains, making it ideal for multilingual sentiment analysis tasks.
+
+## Dataset Information
+The dataset was meticulously collected and aggregated from various sources, including Hugging Face and Kaggle. These sources provide diverse languages and domains to ensure a comprehensi
+--------------------------------------------------
+
+thomasavare/italian-dataset-deepl | score: 0.5433
+Author: thomasavare
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for "italian-dataset-deepl"
+
+English to italian translation made with Deepl API of waste-classification-v2 dataset (500 first rows).
+
+More Information needed
+--------------------------------------------------
+
+Harvinder6766/sentiment_data_google | score: 0.5377
+Author: Harvinder6766
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for "sentiment_data_google"
+
+Dataset for sentiment analysis on sentence level
+Here we used google API to get doc level and sentiment level Score
+
+* id2label = {0: "NEGATIVE", 1: "POSITIVE",2:"NEUTRAL"}
+* label2id = {"NEGATIVE": 0, "POSITIVE": 1,"NEUTRAL":2}
+
+More Information needed
+--------------------------------------------------
+
+nikesh66/sentiment-detection-dataset | score: 0.5367
+Author: nikesh66
+Task Categories: nan
+ReadmeFile, first 500 characters: # Sentiment Analysis Dataset
+This contains artificially constructed dataset labelled with their respective sentiment
+
+## Dataset Description:
+- Number of Rows: 10,000
+- Number of Columns: 2
+- Column Names: 'Tweet', 'Emotion'
+- Description: This dataset contains tweets labeled with various emotions. Each row consists of a tweet and its corresponding emotion label, such as 'Anger', 'Shame', 'Sadness', or 'Fear'.
+--------------------------------------------------
+
+dejanseo/sentiment | score: 0.5347
+Author: dejanseo
+Task Categories: ['text-classification']
+ReadmeFile, first 500 characters: ## Dataset Card
+
+Developed by Dejan Marketing.
+
+### Dataset Summary
+
+This dataset contains 13,650 samples of text data generated using the  model, with each sample associated with one of seven sentiment labels ranging from "very positive" to "very negative". The data is stored in a CSV file with columns for the text and the corresponding sentiment label.
+
+# Engage Our Team
+
+## Interested in using this in an automated pipeline for bulk query processing?
+
+Please book an appointment to discuss your
+--------------------------------------------------
+
+SEACrowd/casa | score: 0.5290
+Author: SEACrowd
+Task Categories: ['aspect-based-sentiment-analysis']
+ReadmeFile, first 500 characters: CASA: An aspect-based sentiment analysis dataset consisting of around a thousand car reviews collected from multiple Indonesian online automobile platforms (Ilmania et al., 2018).
+The dataset covers six aspects of car quality.
+We define the task to be a multi-label classification task,
+where each label represents a sentiment for a single aspect with three possible values: positive, negative, and neutral.
+
+## Languages
+
+ind
+
+## Supported Tasks
+
+Aspect Based Sentiment Analysis
+
+## Dataset Usage
+##
+--------------------------------------------------
+
+AlexSham/imdb_filtered | score: 0.5274
+Author: AlexSham
+Task Categories: nan
+ReadmeFile, first 500 characters: https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences
+This dataset was created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015
+Please cite the paper if you want to use it :)
+
+It contains sentences labelled with positive or negative sentiment, extracted from reviews of products, movies, and restaurants
+
+=======
+Format:
+=======
+sentence \t score \n
+
+=======
+Details:
+=======
+Score is either 1 (for positive) or 0 (for negative)
+The senten
+--------------------------------------------------
+
+AlexSham/amazon_cells_filtered | score: 0.5193
+Author: AlexSham
+Task Categories: nan
+ReadmeFile, first 500 characters: https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences
+
+This dataset was created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015
+Please cite the paper if you want to use it :)
+
+It contains sentences labelled with positive or negative sentiment, extracted from reviews of products, movies, and restaurants
+
+=======
+Format:
+=======
+sentence \t score \n
+
+=======
+Details:
+=======
+Score is either 1 (for positive) or 0 (for negative)	
+The sent
+--------------------------------------------------
+
+
+--- Query 2: Find large-scale datasets with multilingual support and open licenses. ---
+
+muhammadravi251001/multilingual-nli-dataset | score: 0.6931
+Author: muhammadravi251001
+Task Categories: nan
+ReadmeFile, first 500 characters: Use it like this.
+--------------------------------------------------
+
+orgcatorg/multilingual | score: 0.6793
+Author: orgcatorg
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for "multilingual"
+
+More Information needed
+--------------------------------------------------
+
+cryscan/multilingual-share | score: 0.6665
+Author: cryscan
+Task Categories: nan
+ReadmeFile, first 500 characters: # Multilingual Share GPT
+Multilingual Share GPT, the free multi-language corpus for LLM training. All text are converted to markdown format, and classified by languages.
+
+## Github Repo
+Follow the link here to Github.
+
+## Data Example
+
+## 中文用户请看这里
+为了推进中文AI的发展，促进AI技术公开化、国际化，我们成立了 ShareGPT-90k 项目，希望借助大家的力量推进数据清洗与对齐工作。
+
+可能与各位想象的有所不同，GPT模型主要通过预训练数据集赋能，语料的质量对模型最终性能至关重要。然而，百度知道、CSDN、知乎等平台软文过多；小木虫等高质量平台语料过少；个人博客内容质量参差不齐。
+
+OpenAI完成数据集的收集花费了巨大成本，以至于需要从微软集资。我们无力承担如此巨大的开销，于是需要各位有志于筹建开放获取语料，并有一定外语基础的网友们献上自己
+--------------------------------------------------
+
+lamini/open_llms | score: 0.6416
+Author: lamini
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for "open_llms"
+
+More Information needed
+--------------------------------------------------
+
+Mike0307/nli-zh-tw-multilingual | score: 0.6391
+Author: Mike0307
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for "nli-zh-tw-multilingual"
+
+More Information needed
+--------------------------------------------------
+
+openlanguagedata/flores_plus | score: 0.6330
+Author: openlanguagedata
+Task Categories: ['text2text-generation', 'translation']
+ReadmeFile, first 500 characters: # Dataset Card for FLORES+
+
+FLORES+ is an evaluation benchmark dataset for multilingual machine translation. 
+
+## Dataset Details
+
+### Dataset Description
+
+FLORES+ is a multilingual machine translation benchmark released under CC BY-SA 4.0. This dataset was originally released by FAIR researchers at Meta under the name FLORES. Further information about these initial releases can be found in Dataset Sources below. The data is now being managed by OLDI, the Open Language Data Initiative. The + has
+--------------------------------------------------
+
+maxtli/OpenWebText-2M | score: 0.6297
+Author: maxtli
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for "OpenWebText-2M"
+
+More Information needed
+--------------------------------------------------
+
+Intuit-GenSRF/all_english_datasets | score: 0.6297
+Author: Intuit-GenSRF
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for "all_english_datasets"
+
+More Information needed
+--------------------------------------------------
+
+baoanhtran/guanaco-llama2-200 | score: 0.6292
+Author: baoanhtran
+Task Categories: ['text-generation', 'fill-mask']
+ReadmeFile, first 500 characters: CulturaX 
+     Cleaned, Enormous, and Public: The Multilingual Fuel to Democratize Large Language Models for 167 Languages 
+
+## Dataset Description
+
+- **Repository:** https://github.com/nlp-uoregon/CulturaX
+- **Papers:** CulturaX: A Cleaned, Enormous, and Multilingual Dataset for Large Language Models in 167 Languages
+
+## Dataset Summary
+
+We present CulturaX, a substantial multilingual dataset with 6.3 trillion tokens in 167 languages, tailored for large language model (LLM) development. Our dat
+--------------------------------------------------
+
+m-a-p/Matrix | score: 0.6276
+Author: m-a-p
+Task Categories: ['text-generation']
+ReadmeFile, first 500 characters: # Matrix
+
+An open-source pretraining dataset containing 4690 billion tokens, this bilingual dataset with both English and Chinese texts is used for training neo models.
+
+## Dataset Composition
+
+The dataset consists of several components, each originating from different sources and serving various purposes in language modeling and processing. Below is a brief overview of each component:
+
+  
+  Common Crawl
+  Extracts from the Common Crawl project, featuring a rich diversity of internet text includ
+--------------------------------------------------
+
+
+--- Query 3: What are the top trending datasets for text summarization? ---
+
+jordiclive/scored_summarization_datasets | score: 0.6922
+Author: jordiclive
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for "Scored-Summarization-datasets"
+A collection of Text summarization datasets geared towards training a multi-purpose text summarizer.
+
+Each dataset is a parquet file with the following features.
+
+#### default
+- : a  feature. The  document
+- : a  feature. The summary of the document
+- : a  feature. Information about the sub dataset.
+- : a  feature. The number of tokens the text is encoded in.
+- : a  feature. The number of tokens the summary is encoded in.
+- : a  feature. The Cos
+--------------------------------------------------
+
+ccdv/arxiv-summarization | score: 0.6261
+Author: ccdv
+Task Categories: ['summarization', 'text-generation']
+ReadmeFile, first 500 characters: # Arxiv dataset for summarization
+
+Dataset for summarization of long documents.\
+Adapted from this repo.\
+Note that original data are pre-tokenized so this dataset returns " ".join(text) and add "\n" for paragraphs. \
+This dataset is compatible with the  script from Transformers if you add this line to the  variable:
+
+### Data Fields
+
+- : paper id
+- : a string containing the body of the paper
+- : a string containing the abstract of the paper
+
+### Data Splits
+
+This dataset has 3 splits: _train_, 
+--------------------------------------------------
+
+GEM/xlsum | score: 0.6120
+Author: GEM
+Task Categories: ['summarization']
+ReadmeFile, first 500 characters: # Dataset Card for GEM/xlsum
+
+## Dataset Description
+
+- **Homepage:** https://github.com/csebuetnlp/xl-sum
+- **Repository:** https://huggingface.co/datasets/csebuetnlp/xlsum/tree/main/data
+- **Paper:** https://aclanthology.org/2021.findings-acl.413/
+- **Leaderboard:** http://explainaboard.nlpedia.ai/leaderboard/task_xlsum/
+- **Point of Contact:** Tahmid Hasan
+
+### Link to Main Data Card
+
+You can find the main data card on the GEM Website.
+
+### Dataset Summary 
+
+XLSum is a highly multilingual sum
+--------------------------------------------------
+
+vector/test_demo | score: 0.6018
+Author: vector
+Task Categories: nan
+ReadmeFile, first 500 characters: ### Dataset Summary 
+Placeholder
+You can load the dataset via:
+
+The data loader can be found here.
+#### website
+None (See Repository)
+#### paper
+https://www.aclweb.org/anthology/2020.findings-emnlp.360/
+#### authors
+Faisal Ladhak (Columbia University), Esin Durmus (Stanford University), Claire Cardie (Cornell University), Kathleen McKeown (Columbia University)
+## Dataset Overview
+### Where to find the Data and its Documentation
+#### Webpage
+
+None (See Repository)
+#### Download
+
+https://github.co
+--------------------------------------------------
+
+kundank/usb | score: 0.5998
+Author: kundank
+Task Categories: ['summarization']
+ReadmeFile, first 500 characters: # USB: A Unified Summarization Benchmark Across Tasks and Domains
+
+This benchmark contains labeled datasets for 8 text summarization based tasks given below. 
+The labeled datasets are created by collecting manual annotations on top of Wikipedia articles from 6 different domains.
+
+Additionally, to load the full set of collected annotations which were leveraged to make the labeled datasets for above tasks, use the command:  ``
+
+## Trained models
+
+We fine-tuned Flan-T5-XL models on the training set
+--------------------------------------------------
+
+tau/scrolls | score: 0.5910
+Author: tau
+Task Categories: ['question-answering', 'summarization', 'text-generation']
+ReadmeFile, first 500 characters: ## Dataset Description
+
+- **Homepage:** SCROLLS
+- **Repository:** SCROLLS Github repository
+- **Paper:** [SCROLLS: Standardized CompaRison Over Long Language Sequences
+](https://arxiv.org/pdf/2201.03533.pdf)
+- **Leaderboard:** Leaderboard
+- **Point of Contact:** scrolls-benchmark-contact@googlegroups.com
+
+# Dataset Card for SCROLLS
+
+## Overview
+SCROLLS is a suite of datasets that require synthesizing information over long texts. The benchmark includes seven natural language tasks across multiple
+--------------------------------------------------
+
+knkarthick/highlightsum | score: 0.5895
+Author: knkarthick
+Task Categories: ['summarization']
+ReadmeFile, first 500 characters: # Dataset Card for HighlightSum Corpus [Single Dataset Comprising of AMI, SamSUM & DialogSUM for Brief Summarization of Text]
+## Dataset Description
+### Links
+- **AMI:** https://huggingface.co/datasets/knkarthick/AMI
+- **DialogSUM:** https://github.com/cylnlp/dialogsum
+- **SamSUM:** https://huggingface.co/datasets/knkarthick/samsum
+- **Point of Contact:** https://huggingface.co/knkarthick
+
+### Dataset Summary
+HighlightSUM is collection of large-scale dialogue summarization dataset from AMI, SamS
+--------------------------------------------------
+
+swaroop-nath/rqft | score: 0.5886
+Author: swaroop-nath
+Task Categories: ['summarization']
+ReadmeFile, first 500 characters: Reliable Query-focused Summarization Tester (RQFT) is a dataset to evaluate Query-focused Summarization models. It contains 203 `` triples which can be used to evaluate Query-focused Summarizing models. Each document has more than 1 query on an average (1.41 to be precise). This is a design choice to tackle Topic Centralization, see Baumel et al., 2016.
+For more details, we refer the reader to our EMNLP 2023 paper: [Reinforcement Replaces Supervision: Query focused Summarization using
+Deep Reinf
+--------------------------------------------------
+
+kmfoda/booksum | score: 0.5866
+Author: kmfoda
+Task Categories: nan
+ReadmeFile, first 500 characters: # BOOKSUM: A Collection of Datasets for Long-form Narrative Summarization
+Authors: Wojciech Kryściński, Nazneen Rajani, Divyansh Agarwal, Caiming Xiong, Dragomir Radev
+
+## Introduction
+The majority of available text summarization datasets include short-form source documents that lack long-range causal and temporal dependencies, and often contain strong layout and stylistic biases. 
+While relevant, such datasets will offer limited challenges for future generations of text summarization systems.
+W
+--------------------------------------------------
+
+shahidul034/text_summarization_dataset1 | score: 0.5858
+Author: shahidul034
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for "text_summarization_dataset1"
+
+More Information needed
+--------------------------------------------------
+
+
+--- Query 4: Datasets with detailed README files and active contributors. ---
+
+j-krzywdziak/test | score: 0.7089
+Author: j-krzywdziak
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for [Dataset Name]
+
+## Table of Contents
+- Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - 
+--------------------------------------------------
+
+OmarN121/train | score: 0.7082
+Author: OmarN121
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for [Dataset Name]
+
+## Table of Contents
+- Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - 
+--------------------------------------------------
+
+arbml/wikipedia_talks | score: 0.7069
+Author: arbml
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for dummy
+
+## Table of Contents
+- Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - Dataset C
+--------------------------------------------------
+
+bgstud/libri | score: 0.7061
+Author: bgstud
+Task Categories: ['token-classification']
+ReadmeFile, first 500 characters: # Dataset Card for [Dataset Name]
+
+## Table of Contents
+- Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - 
+--------------------------------------------------
+
+Langame/starter | score: 0.7035
+Author: Langame
+Task Categories: ['text-generation']
+ReadmeFile, first 500 characters: # Dataset Card for [Dataset Name]
+
+## Table of Contents
+- Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - 
+--------------------------------------------------
+
+Zaid/dummy | score: 0.7034
+Author: Zaid
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for [Dataset Name]
+
+## Table of Contents
+- Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - 
+--------------------------------------------------
+
+bgstud/libri-mini-proc-whisper | score: 0.7012
+Author: bgstud
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for [Dataset Name]
+
+## Table of Contents
+- Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - 
+--------------------------------------------------
+
+arbml/inaracorpus | score: 0.6987
+Author: arbml
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for [Dataset Name]
+
+## Table of Contents
+- Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - 
+--------------------------------------------------
+
+merkalo-ziri/qa_main | score: 0.6985
+Author: merkalo-ziri
+Task Categories: ['question-answering']
+ReadmeFile, first 500 characters: # Dataset Card for [Dataset Name]
+
+## Table of Contents
+- Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - 
+--------------------------------------------------
+
+freddyaboulton/upload_test_315 | score: 0.6971
+Author: freddyaboulton
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for Dataset Name
+
+## Dataset Description
+
+- **Homepage:** 
+- **Repository:** 
+- **Paper:** 
+- **Leaderboard:** 
+- **Point of Contact:** 
+
+### Dataset Summary
+
+[More Information Needed]
+
+### Supported Tasks and Leaderboards
+
+[More Information Needed]
+
+### Languages
+
+[More Information Needed]
+
+## Dataset Structure
+
+### Data Instances
+
+[More Information Needed]
+
+### Data Fields
+
+[More Information Needed]
+
+### Data Splits
+
+[More Information Needed]
+
+## Dataset Creation
+
+### Curation R
+--------------------------------------------------
+
+
+--- Query 5: Show datasets suitable for low-resource language modeling. ---
+
+nampdn-ai/tiny-orca-textbooks | score: 0.6360
+Author: nampdn-ai
+Task Categories: ['text-generation']
+ReadmeFile, first 500 characters: # Textbook-like Dataset: A Comprehensive Resource for Text-Based Skills Development in Small Language Models
+
+This dataset is a collection of **147k synthetic textbooks** designed to enhance the text-based skills of small language models. The curriculum is meticulously structured to progress from simple to complex tasks, ensuring a gradual and effective learning experience during pretraining or finetuning SLMs.
+
+The inspiration for this dataset comes from the technical report paper, Textbooks Ar
+--------------------------------------------------
+
+nampdn-ai/tiny-codes | score: 0.6235
+Author: nampdn-ai
+Task Categories: ['text-generation']
+ReadmeFile, first 500 characters: # Reasoning with Language and Code
+
+This synthetic dataset is a collection of **1.6 millions short and clear code snippets** that can help LLM models learn how to reason with both natural and programming languages. The dataset covers a wide range of programming languages, such as Python, TypeScript, JavaScript, Ruby, Julia, Rust, C++, Bash, Java, C#, and Go. It also includes two database languages: Cypher (for graph databases) and SQL (for relational databases) in order to study the relationship
+--------------------------------------------------
+
+erfanzar/lmsys-lite | score: 0.6136
+Author: erfanzar
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for "lmsys-lite"
+
+This dataset is Lite Version of lmsys/lmsys-chat-1m and contains only english language and these models are filtered
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-
+--------------------------------------------------
+
+luciolrv/lener_br_finetuning_language_model | score: 0.6014
+Author: luciolrv
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for "lener_br_finetuning_language_model"
+
+More Information needed
+--------------------------------------------------
+
+HuggingFaceFW/fineweb-2 | score: 0.5934
+Author: HuggingFaceFW
+Task Categories: ['text-generation']
+ReadmeFile, first 500 characters: # 🥂 FineWeb2
+
+# Table of Contents
+
+- 🥂 FineWeb2
+   * What is it?
+   * Languages and available subsets
+      + How many tokens?
+   * Changelog
+   * How to download and use 🥂 FineWeb2
+      + Using 🏭 
+      + Using 
+      + Using 
+   * Dataset processing steps
+      + Language Identification 🌍
+      + Deduplication 🗃️
+      + Data Filtering 🧹
+      + PII Anonymization and fixes 🎭
+   * Dataset performance evaluation and ablations
+      + Hyper-parameters for ablation models
+      + Score normalizat
+--------------------------------------------------
+
+metunlp/LlamaTurk-Instruction-Set | score: 0.5927
+Author: metunlp
+Task Categories: ['text-generation']
+ReadmeFile, first 500 characters: Instruction fine-tuning dataset used in the study "LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language"
+--------------------------------------------------
+
+nampdn-ai/mini-en | score: 0.5866
+Author: nampdn-ai
+Task Categories: ['text-generation']
+ReadmeFile, first 500 characters: # Tiny English
+
+A collection of short texts that have been curated for long-term human value. The texts in this dataset have been filtered from the falcon-refinedweb and minipile datasets to ensure better quality and tiny in size.
+
+The tiny-en dataset is concise and small in size, yet highly diverse, making it an excellent resource for training natural language processing models. Despite its compact size, the dataset offers a wide range of content that has been carefully selected for its long-te
+--------------------------------------------------
+
+CarperAI/pile-v2-small-filtered | score: 0.5824
+Author: CarperAI
+Task Categories: ['text-generation']
+ReadmeFile, first 500 characters: ## Dataset Description
+
+A small subset in each dataset of (~1000 samples) of pile-v2 dataset, each has 1,000 random samples from the original dataset. The dataset has 255MB of text (code and english).
+
+## Languages
+The dataset contains technical text on programming languages and natural language with the following subsets,
+- Bible 
+- TED2020
+- PileOfLaw
+- StackExchange
+- GithubIssues
+- Opensubtitles
+- USPTO
+- S2ORC
+- DevDocs
+- CodePileReddit2022
+- USENET
+- GNOME
+- ASFPublicMail
+- PileV2Reddit202
+--------------------------------------------------
+
+nielsr/datacomp_small_with_language | score: 0.5785
+Author: nielsr
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for "datacomp_small_with_language"
+
+More Information needed
+--------------------------------------------------
+
+VirtualRoyalty/20ng_not_enough_data | score: 0.5756
+Author: VirtualRoyalty
+Task Categories: ['text-classification']
+ReadmeFile, first 500 characters: # Dataset Card for Dataset Name
+
+## Dataset Description
+
+- **Homepage:** 
+- **Repository:** 
+- **Paper:** 
+- **Leaderboard:** 
+- **Point of Contact:** 
+
+### Dataset Summary
+
+This dataset card aims to be a base template for new datasets. It has been generated using this raw template.
+
+### Supported Tasks and Leaderboards
+
+[More Information Needed]
+
+### Languages
+
+[More Information Needed]
+
+## Dataset Structure
+
+### Data Instances
+
+[More Information Needed]
+
+### Data Fields
+
+[More Information Need
+--------------------------------------------------
+
+
+--- Query 6: Which datasets support image classification tasks and are under 1GB? ---
+
+HamZurger/Caltech-101 | score: 0.5881
+Author: HamZurger
+Task Categories: nan
+ReadmeFile, first 500 characters: The Caltech-101 dataset of images.
+
+The dataset consists of pictures of objects belonging to 101 classes, plus one background clutter class (BACKGROUND_Google). Each image is labelled with a single object.
+
+Each class contains roughly 40 to 800 images, totaling around 9,000 images. Images are of variable sizes, with typical edge lengths of 200-300 pixels. This version contains image-level labels only.
+
+---
+source:
+- https://data.caltech.edu/records/mzrjq-6wc02
+--------------------------------------------------
+
+datasets-examples/doc-image-10 | score: 0.5845
+Author: datasets-examples
+Task Categories: nan
+ReadmeFile, first 500 characters: # [doc] image dataset 10
+
+This dataset contains a parquet file that contains an image column.
+--------------------------------------------------
+
+tanganke/stanford_cars | score: 0.5825
+Author: tanganke
+Task Categories: ['image-classification']
+ReadmeFile, first 500 characters: # Stanford Cars Dataset
+
+## Dataset Overview
+
+- **Splits**:
+  - **Training**: 8144 images used for model training.
+  - **Test**: 8041 images used for evaluation.
+  - **Contrast**: 8041 images with high contrast for robustness testing.
+  - **Gaussian Noise**: 8041 images corrupted by Gaussian noise for robustness testing.
+  - **Impulse Noise**: 8041 images corrupted by impulse noise for robustness testing.
+  - **JPEG Compression**: 8041 compressed images for robustness testing.
+  - **Motion Blur*
+--------------------------------------------------
+
+datasets-examples/doc-image-2 | score: 0.5818
+Author: datasets-examples
+Task Categories: nan
+ReadmeFile, first 500 characters: # [doc] image dataset 2
+
+This dataset contains 4 jpeg files in the images/ subdirectory.
+--------------------------------------------------
+
+SaiCharithaAkula21/dataset11 | score: 0.5813
+Author: SaiCharithaAkula21
+Task Categories: nan
+ReadmeFile, first 500 characters: # Sample Image Dataset
+
+test change!!! This is a sample dataset containing a few images and their labels.
+
+## Structure
+
+- : Contains the image files.
+- : Contains the metadata with image filenames and labels.
+
+## Usage
+
+You can load this dataset using the  library.
+
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("username/sample_dataset")
+--------------------------------------------------
+
+DeepLearner101/ImageNetSubset_130352355 | score: 0.5765
+Author: DeepLearner101
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for "ImageNetSubsetTrain"
+
+More Information needed
+--------------------------------------------------
+
+nsjzg/dataset1 | score: 0.5705
+Author: nsjzg
+Task Categories: ['image-classification']
+ReadmeFile, first 500 characters: # Dataset
+--------------------------------------------------
+
+p1atdev/FractalDB-1k | score: 0.5692
+Author: p1atdev
+Task Categories: ['image-classification']
+ReadmeFile, first 500 characters: # FractalDB 1k
+
+FractalDB 1k dataset from Pre-training without Natural Images.
+
+Original repo | Project page | arXiv
+
+## Citing
+--------------------------------------------------
+
+bvkbharadwaj/Image_dataset_test | score: 0.5648
+Author: bvkbharadwaj
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for "Image_dataset_test"
+
+More Information needed
+--------------------------------------------------
+
+datasets-examples/doc-image-4 | score: 0.5648
+Author: datasets-examples
+Task Categories: nan
+ReadmeFile, first 500 characters: # [doc] image dataset 4
+
+This dataset contains 4 jpeg files in the  subdirectory, along with a  file that provides the data for other columns.
+--------------------------------------------------
+
+
+--- Query 7: List recently created datasets for question answering in biomedical domain. ---
+
+asus-aics/QALM | score: 0.6585
+Author: asus-aics
+Task Categories: ['question-answering']
+ReadmeFile, first 500 characters: The QALM Benchmark utilizes the following datasets:
+
+1. MEDQA (USMLE dataset) [1]
+2. MEDMCQA [2]
+3. BioASQ (2022) [3] [4]
+4. HEADQA [5]
+5. ProcessBank [6]
+6. PubmedQA [7]
+7. MMLU (subset of datasets focussing on clinical and medical knowledge) [8]
+8. BioMRC (Tiny A and B) [9]
+9. Fellowship of the Royal College of Ophthalmologists (FRCOphth) Exams [10]
+10. QA4MRE (Alzheimer's Questions) [11]
+11. MedicationInfo [12]
+12. MedQuad [13]
+13. LiveQA dataset (Ranked version of answers used to evaluate Me
+--------------------------------------------------
+
+highnote/pubmed_qa | score: 0.6476
+Author: highnote
+Task Categories: ['question-answering']
+ReadmeFile, first 500 characters: # Dataset Card for [Dataset Name]
+
+## Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - Dataset Curators
+  -
+--------------------------------------------------
+
+GBaker/MedQA-USMLE-4-options | score: 0.6437
+Author: GBaker
+Task Categories: nan
+ReadmeFile, first 500 characters: Original dataset introduced by Jin et al. in What Disease does this Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams
+
+Citation information:
+
+    @article{jin2020disease,
+      title={What Disease does this Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams},
+      author={Jin, Di and Pan, Eileen and Oufattole, Nassim and Weng, Wei-Hung and Fang, Hanyi and Szolovits, Peter},
+      journal={arXiv preprint arXiv:2009.13081},
+  
+--------------------------------------------------
+
+ymoslem/MedicalSciences-StackExchange | score: 0.6340
+Author: ymoslem
+Task Categories: ['question-answering', 'text-classification', 'sentence-similarity']
+ReadmeFile, first 500 characters: All StackExchange questions and their answers from the Medical Sciences site, up to 14 August 2023. The repository includes a notebook for the process using the official StackExchange API.
+--------------------------------------------------
+
+Shekswess/medical_gemma_instruct_dataset | score: 0.6244
+Author: Shekswess
+Task Categories: ['question-answering']
+ReadmeFile, first 500 characters: Dataset made for instruction supervised finetuning of Gemma LLMs, by combining of medical datasets:
+
+- Medical meadow wikidoc (https://huggingface.co/datasets/medalpaca/medical_meadow_wikidoc/blob/main/README.md)
+- Medquad (https://www.kaggle.com/datasets/jpmiller/layoutlm)
+
+## Medical meadow wikidoc
+
+The Medical Meadow Wikidoc dataset comprises question-answer pairs sourced from WikiDoc, an online platform where medical professionals collaboratively contribute and share contemporary medical kno
+--------------------------------------------------
+
+Shekswess/medical_gemma_instruct_dataset_short | score: 0.6216
+Author: Shekswess
+Task Categories: ['question-answering']
+ReadmeFile, first 500 characters: Dataset made for instruction supervised finetuning of Gemma LLMs, by combining of medical datasets and getting 2k entries from them:
+
+- Medical meadow wikidoc (https://huggingface.co/datasets/medalpaca/medical_meadow_wikidoc/blob/main/README.md)
+- Medquad (https://www.kaggle.com/datasets/jpmiller/layoutlm)
+
+## Medical meadow wikidoc
+
+The Medical Meadow Wikidoc dataset comprises question-answer pairs sourced from WikiDoc, an online platform where medical professionals collaboratively contribute a
+--------------------------------------------------
+
+qiaojin/PubMedQA | score: 0.6208
+Author: qiaojin
+Task Categories: ['question-answering']
+ReadmeFile, first 500 characters: # Dataset Card for [Dataset Name]
+
+## Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - Dataset Curators
+  -
+--------------------------------------------------
+
+lighteval/med_mcqa | score: 0.6196
+Author: lighteval
+Task Categories: nan
+ReadmeFile, first 500 characters: From "MedMCQA: A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering"
+(Pal et al.), MedMCQA is a "multiple-choice question answering (MCQA) dataset designed to address
+real-world medical entrance exam questions." The dataset "...has more than 194k high-quality AIIMS & NEET PG
+entrance exam MCQs covering 2.4k healthcare topics and 21 medical subjects are collected with an average
+token length of 12.77 and high topical diversity."
+
+The following is an example from 
+--------------------------------------------------
+
+medalpaca/medical_meadow_medqa | score: 0.6196
+Author: medalpaca
+Task Categories: ['question-answering']
+ReadmeFile, first 500 characters: # Dataset Card for MedQA
+
+## Dataset Description
+
+- **Paper:** 
+
+### Dataset Summary
+
+This is the data and baseline source code for the paper: Jin, Di, et al. "What Disease does this Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams." 
+
+From https://github.com/jind11/MedQA:
+
+### Citation Information
+--------------------------------------------------
+
+dmis-lab/MedLFQA | score: 0.6148
+Author: dmis-lab
+Task Categories: nan
+ReadmeFile, first 500 characters: Original dataset introduced by Jeong et al. in OLAPH: Improving Factuality in Biomedical Long-form Question Answering
+
+Citation information:
+
+    @misc{jeong2024olaph,
+      title={OLAPH: Improving Factuality in Biomedical Long-form Question Answering}, 
+      author={Minbyul Jeong and Hyeon Hwang and Chanwoong Yoon and Taewhoo Lee and Jaewoo Kang},
+      year={2024},
+      eprint={2405.12701},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+    }
+--------------------------------------------------
+
+
+--- Query 8: Find datasets curated for cross-lingual classification tasks with labeled examples and language identifiers. ---
+
+Eurolingua/mmlux | score: 0.6612
+Author: Eurolingua
+Task Categories: ['multiple-choice']
+ReadmeFile, first 500 characters: ### Citation Information
+
+If you find benchmarks useful in your research, please consider citing the test and also the MMLU dataset it draws from:
+--------------------------------------------------
+
+ahelk/ccaligned_multilingual | score: 0.6453
+Author: ahelk
+Task Categories: ['other']
+ReadmeFile, first 500 characters: # Dataset Card for ccaligned_multilingual
+
+## Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - Dataset Cura
+--------------------------------------------------
+
+Mike0307/language-detection | score: 0.6256
+Author: Mike0307
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for "language-detection"
+
+More Information needed
+--------------------------------------------------
+
+coastalcph/multi_eurlex | score: 0.6233
+Author: coastalcph
+Task Categories: ['text-classification']
+ReadmeFile, first 500 characters: # Dataset Card for "MultiEURLEX"
+
+## Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - Dataset Curators
+  - 
+--------------------------------------------------
+
+coastalcph/lex_glue | score: 0.6158
+Author: coastalcph
+Task Categories: ['question-answering', 'text-classification']
+ReadmeFile, first 500 characters: # Dataset Card for "LexGLUE"
+
+## Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - Dataset Curators
+  - Lice
+--------------------------------------------------
+
+legacy-datasets/multilingual_librispeech | score: 0.6086
+Author: legacy-datasets
+Task Categories: ['automatic-speech-recognition', 'audio-classification']
+ReadmeFile, first 500 characters: # Dataset Card for MultiLingual LibriSpeech
+
+## Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - Dataset Cu
+--------------------------------------------------
+
+microsoft/xglue | score: 0.6070
+Author: microsoft
+Task Categories: ['question-answering', 'summarization', 'text-classification', 'text2text-generation', 'token-classification']
+ReadmeFile, first 500 characters: # Dataset Card for XGLUE
+
+## Table of Contents
+- Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - Dataset C
+--------------------------------------------------
+
+jfrenz/legalglue | score: 0.6010
+Author: jfrenz
+Task Categories: ['text-classification', 'token-classification']
+ReadmeFile, first 500 characters: # Dataset Card for "LegalGLUE"
+
+## Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - Dataset Curators
+  - Licensing Informati
+--------------------------------------------------
+
+msislam/marc-code-mixed-small | score: 0.5978
+Author: msislam
+Task Categories: nan
+ReadmeFile, first 500 characters: # marc-code-mixed-small
+
+This dataset is based on The Multilingual Amazon Reviews Corpus.
+
+It contains German (DE), English (EN), Spanish (ES), and French (FR) languages. 
+
+The labels are 0 (DE), 1 (EN), 2 (ES), and 3 (FR). 
+
+Each review contains all four languages.
+
+Total number of tokens:
+* In training set: 10195342
+* In test set: 842760
+* In validation set: 842760
+--------------------------------------------------
+
+C-MTEB/MultilingualSentiment-classification | score: 0.5974
+Author: C-MTEB
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for "MultilingualSentiment-classification"
+
+More Information needed
+--------------------------------------------------
+
+
+--- Query 9: Find high-quality datasets for code generation with permissive licenses. ---
+
+DataProvenanceInitiative/Commercially-Verified-Licenses | score: 0.5986
+Author: DataProvenanceInitiative
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for **Data Provenance Initiative - Commercial-Licenses**
+
+## Dataset Description
+
+- **Homepage:** https://github.com/Data-Provenance-Initiative/Data-Provenance-Collection
+- **Repository:** https://github.com/Data-Provenance-Initiative/Data-Provenance-Collection
+- **Paper:** https://arxiv.org/abs/2310.16787
+- **Point of Contact:** data.provenance.init@gmail.com
+- **NOTE:** Licenses for these datasets are "self-reported" and collected by best-effort volunteers on a per dataset basis
+--------------------------------------------------
+
+loubnabnl/bigcode-data-stats | score: 0.5831
+Author: loubnabnl
+Task Categories: nan
+ReadmeFile, first 500 characters: **Stats about bigcode dataset:**
+
+* Permissive licenses only :
+
+* Non permissive data, the number are higher than the  e.g 240GB of python I mentionned (it was on old dump)
+
+(1) all these runs have content filtering, notice that it removes a lot of data from JavaScript (you could try filtering with less strict thresholds, the script is very easy to run)
+
+(2) I don't have the data but I found these numbers from an old run on the forst version of The Stack (it uses the same content filtering thres
+--------------------------------------------------
+
+gnumanth/licenses | score: 0.5773
+Author: gnumanth
+Task Categories: nan
+ReadmeFile, first 500 characters: # Licenses
+--------------------------------------------------
+
+MarkrAI/KoCommercial-Dataset | score: 0.5743
+Author: MarkrAI
+Task Categories: nan
+ReadmeFile, first 500 characters: # SSL 데이터 생성을 위한 코드 공개
+
+**SSL 데이터 생성용 Github Repo**
+
+- NIA와  AI-Hub와의 저작권 협의 하에, 조금 혼선이 생긴것 죄송합니다.
+
+- 이에 기존에 저희가 code베이스로 SSL 데이터를 생성했던 코드를 그대로 공개드립니다.
+
+- 다만, 이 과정에서는 저희 이후 파이프라인인, 자체 로컬 모델을 가지고 필터링하거나 수정하는 과정이 없어, 어느정도 감안을 해주시면 감사하겠습니다.
+
+- 코드는 누구나 사용하실 수 있고 과제와 Task에 맞게 활용하시면 감사하겠습니다!
+
+--------------------  
+# Dataset: KoCommercial-Dataset
+
+## Info
+
+**Dataset 개수:** 약 1.44M
+  
+**License:** MIT 
+  
+**Dataset list(전부 상업적 용도로 이용가능)**  
+1. kyujinpy/KOpen-platypus (*Except non-commercial datasets)
+2.
+--------------------------------------------------
+
+openSUSE/cavil-license-patterns | score: 0.5730
+Author: openSUSE
+Task Categories: nan
+ReadmeFile, first 500 characters: ## Data Description
+
+These are the license patterns currently being used by Cavil, the openSUSE legal review and SBOM system.
+
+## Intended Use
+
+This dataset is intended to be used to train machine learning models to identify Open Source licenses. It was curated by the humans of the SUSE legal review team.
+
+## License
+
+Licensed under GPL-2.0-or-later.
+--------------------------------------------------
+
+GusPuffy/python-decompiler-37-0.7-train | score: 0.5596
+Author: GusPuffy
+Task Categories: nan
+ReadmeFile, first 500 characters: I don't know what the licenses are with the code that is in this dataset, so keep that in mind if you are using it.
+
+Pulled source code from the top 8k PyPi projects.
+
+If you own part of the data in the dataset and want to request it be removed please let me know and I will remove it.
+--------------------------------------------------
+
+vilm/code-textbooks | score: 0.5592
+Author: vilm
+Task Categories: nan
+ReadmeFile, first 500 characters: # Code Textbook
+
+200K+ Synthetic Textbook Samples generated with various Open-Source LLMs including **Nous Hermes Mixtral 8x7B, OpenHermes-2.5-Mistral, OpenChat and DeepSeek-Coder**.
+--------------------------------------------------
+
+Forbu14/LoiLibre | score: 0.5571
+Author: Forbu14
+Task Categories: nan
+ReadmeFile, first 500 characters: Il s'agit des pdfs preparsés qui peuvent être ensuite utilisé dans des appli autour du NLP / LLMs dans un soucis de collaborations.
+
+Les différents codes ont été extrait en format XML ici : https://codes.droit.org/
+
+Les formats XML permet de faire un meilleurs preprocessing des codes de loi.
+
+La structure des données :
+
+- dans raw/ on retrouve les différents codes en format xml.
+
+- dans notebooks_preprocess/ on retrouve les différents notebooks qui ont permis de constitué le dataset final.
+--------------------------------------------------
+
+shibing624/source_code | score: 0.5548
+Author: shibing624
+Task Categories: ['text-generation']
+ReadmeFile, first 500 characters: # Dataset Card for "SourceCode"
+## Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - Dataset Curators
+  - Li
+--------------------------------------------------
+
+OpenCoder-LLM/RefineCode-code-corpus-meta | score: 0.5490
+Author: OpenCoder-LLM
+Task Categories: nan
+ReadmeFile, first 500 characters: This dataset consists of meta information (including the repository name and file path) of the raw code data from **RefineCode**. You can collect those files referring to this metadata and reproduce **RefineCode**!
+
+***Note:** Currently, we have uploaded the meta data covered by The Stack V2 (About 50% file volume). Due to complex legal considerations, we are unable to provide the complete source code currently. We are working hard to make the remaining part available.*
+
+---
+**RefineCode** is a 
+--------------------------------------------------
+
+
+--- Query 10: List benchmark NLP datasets commonly used in academic research and model evaluation. ---
+
+SeanWu25/NEJM-AI_Benchmarking_Medical_Language_Models | score: 0.6291
+Author: SeanWu25
+Task Categories: nan
+ReadmeFile, first 500 characters: # A Comparative Study of Open-Source Large Language Models
+
+## Dataset Overview
+
+Welcome to the dataset repository for our paper, "A Comparative Study of Open-Source Large Language Models, GPT-4 and Claude 2: Multiple-Choice Test Taking in Nephrology." The preprint of the paper can be accessed here.
+
+## Files
+
+This repository contains two key files:
+
+1. **NEJM_All_Questions_And_Answers.csv**: This file includes all the questions and corresponding answers used in the study.
+
+2. **Ground_Truth_Ans
+--------------------------------------------------
+
+TimSchopf/nlp_taxonomy_data | score: 0.6192
+Author: TimSchopf
+Task Categories: ['text-classification']
+ReadmeFile, first 500 characters: # NLP Taxonomy Classification Data
+
+The dataset consists of titles and abstracts from NLP-related papers. Each paper is annotated with multiple fields of study from the NLP taxonomy. Each sample is annotated with all possible lower-level concepts and their hypernyms in the NLP taxonomy. The training dataset contains 178,521 weakly annotated samples. The test dataset consists of 828 manually annotated samples from the EMNLP22 conference. The manually labeled test dataset might not contain all pos
+--------------------------------------------------
+
+mlfoundations/tabula-8b-eval-suite | score: 0.6180
+Author: mlfoundations
+Task Categories: ['tabular-classification', 'tabular-regression']
+ReadmeFile, first 500 characters: Evaluation suite used in our paper "Large Scale Transfer Learning for Tabular Data via Language Modeling."
+
+This suite includes our preprocessed versions of benchmark datasets except the AutoML Multimodal Benchmark, which can be accessed by following the installation instructions in their repo here.
+
+We recommend using  when evaluating models with these datasets. 
+See the  repo for more information on using this data for evaluation.
+--------------------------------------------------
+
+JoBeer/eclassTrainST | score: 0.5924
+Author: JoBeer
+Task Categories: ['sentence-similarity']
+ReadmeFile, first 500 characters: # Dataset Card for "eclassTrainST"
+
+This NLI-Dataset can be used to fine-tune Models for the task of sentence-simularity. It consists of names and descriptions of pump-properties from the ECLASS-standard.
+--------------------------------------------------
+
+llmunlearn/unlearn_dataset | score: 0.5860
+Author: llmunlearn
+Task Categories: nan
+ReadmeFile, first 500 characters: # 📖 unlearn_dataset
+The unlearn_dataset serves as a benchmark for evaluating unlearning methodologies in pre-trained large language models across diverse domains, including arXiv, GitHub. 
+
+## 🔍 Loading the datasets
+
+To load the dataset:
+
+* Available configuration names and corresponding splits:
+  - : 
+  - : 
+  - : 
+
+## 🛠️ Codebase
+
+For evaluating unlearning methods on our datasets, visit our GitHub repository.
+
+## ⭐ Citing our Work
+
+If you find our codebase or dataset useful, please consider ci
+--------------------------------------------------
+
+minnesotanlp/LLM-Artifacts | score: 0.5836
+Author: minnesotanlp
+Task Categories: nan
+ReadmeFile, first 500 characters: Under the Surface: Tracking the Artifactuality of LLM-Generated Data
+
+_**Debarati Das†¶, Karin de Langis¶, Anna Martin-Boyle¶, Jaehyung Kim¶, Minhwa Lee¶, Zae Myung Kim¶**_
+  
+_**Shirley Anugrah Hayati, Risako Owan, Bin Hu, Ritik Sachin Parkar, Ryan Koo,
+ Jong Inn Park, Aahan Tyagi, Libby Ferland, Sanjali Roy, Vincent Liu**_
+
+_**Dongyeop Kang**_
+
+_**Minnesota NLP, University of Minnesota Twin Cities**_
+
+† Project Lead,
+¶ Core Contribution,
+
+ Arxiv  
+
+ Project Page  
+
+## 📌 Table of Contents
+- Int
+--------------------------------------------------
+
+coastalcph/lex_glue | score: 0.5788
+Author: coastalcph
+Task Categories: ['question-answering', 'text-classification']
+ReadmeFile, first 500 characters: # Dataset Card for "LexGLUE"
+
+## Table of Contents
+- Dataset Description
+  - Dataset Summary
+  - Supported Tasks and Leaderboards
+  - Languages
+- Dataset Structure
+  - Data Instances
+  - Data Fields
+  - Data Splits
+- Dataset Creation
+  - Curation Rationale
+  - Source Data
+  - Annotations
+  - Personal and Sensitive Information
+- Considerations for Using the Data
+  - Social Impact of Dataset
+  - Discussion of Biases
+  - Other Known Limitations
+- Additional Information
+  - Dataset Curators
+  - Lice
+--------------------------------------------------
+
+gart-labor/eclassTrainST | score: 0.5777
+Author: gart-labor
+Task Categories: ['sentence-similarity']
+ReadmeFile, first 500 characters: # Dataset Card for "eclassTrainST"
+
+This NLI-Dataset can be used to fine-tune Models for the task of sentence-simularity. It consists of names and descriptions of pump-properties from the ECLASS-standard.
+--------------------------------------------------
+
+llm-book/jsnli | score: 0.5745
+Author: llm-book
+Task Categories: nan
+ReadmeFile, first 500 characters: # Dataset Card for llm-book/jsnli
+
+書籍『大規模言語モデル入門』で使用する JSNLIデータセット) のデータセットです。
+JSNLI Version 1.1 のデータセットのうち、フィルタリング後の訓練セット (train_w_filtering) と検証セット (dev) を使用しています。
+
+## Licence
+
+CC BY-SA 4.0
+--------------------------------------------------
+
+shuyuej/Hindi-MMLU-College-Medicine-Benchmark | score: 0.5659
+Author: shuyuej
+Task Categories: nan
+ReadmeFile, first 500 characters: # 💻 Dataset Usage
+Run the following command to load the testing set (144 examples):
+--------------------------------------------------
+
