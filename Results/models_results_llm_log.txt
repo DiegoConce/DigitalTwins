@@ -1,0 +1,911 @@
+
+--- Query 1: What is the best model for text generation? ---
+
+OnsElleuch/logisgenerator | score: 0.6103
+Author: OnsElleuch
+Pipeline Tag: text2text-generation
+ReadmeFile, first 100 characters: #keytotext
+
+Idea is to build a model which will take keywords as inputs and generate sentences as ou
+--------------------------------------------------
+
+gagan3012/k2t-test3 | score: 0.6035
+Author: gagan3012
+Pipeline Tag: text2text-generation
+ReadmeFile, first 100 characters: #keytotext
+
+Idea is to build a model which will take keywords as inputs and generate sentences as ou
+--------------------------------------------------
+
+RajaSi/sd-prompt-generator-gpt-neo-gn | score: 0.5892
+Author: RajaSi
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: hey friends welcome  in this applied NLP tutorial we're going to learn how to fine tune a text gener
+--------------------------------------------------
+
+amosc00/k2t-tesssst | score: 0.5791
+Author: amosc00
+Pipeline Tag: text2text-generation
+ReadmeFile, first 100 characters: ---
+language: "en"
+thumbnail: "Keywords to Sentences"
+tags:
+- keytotext
+- k2t
+- Keywords to Sentence
+--------------------------------------------------
+
+SRDdev/ScriptForge-medium | score: 0.5740
+Author: SRDdev
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: # ScriptForge-medium
+
+## 🖊️ Model description 
+ScriptForge-medium is a language model trained on a d
+--------------------------------------------------
+
+epsil/bhagvad_gita | score: 0.5632
+Author: epsil
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: This is fine-tuned model on Bhagvad Gita and creates text based on prompts.
+Example of usage:
+
+Input
+--------------------------------------------------
+
+ashrielbrian/t5-base-wikipedia-companies-keywords | score: 0.5602
+Author: ashrielbrian
+Pipeline Tag: text2text-generation
+ReadmeFile, first 100 characters: Idea is to build a model which will take keywords as inputs and generate sentences as outputs.
+
+    
+--------------------------------------------------
+
+bs-modeling-metadata/html-metadata-exp1-subexp2-1929863 | score: 0.5560
+Author: bs-modeling-metadata
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: # Work In Progress
+
+# How to use?
+
+This model can only generate regular text. 
+
+# Training details
+
+
+--------------------------------------------------
+
+cambridgeltl/simctg_writingprompts | score: 0.5531
+Author: cambridgeltl
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: This model provides a GPT-2 language model trained with SimCTG on the WritingPrompts benchmark (Fan 
+--------------------------------------------------
+
+Guen/guen_test_prompt_generation | score: 0.5530
+Author: Guen
+Pipeline Tag: text2text-generation
+ReadmeFile, first 100 characters: A small language generation head to generate text from a prompt. 
+Fine-tuned on the t5-base model wi
+--------------------------------------------------
+Number of shortlisted models: 10
+
+
+--- Query 2: Which model should I use for sentiment analysis? ---
+
+Seethal/sentimentanalysis | score: 0.5640
+Author: Seethal
+Pipeline Tag: text-classification
+ReadmeFile, first 100 characters: # Sentiment analysis model
+--------------------------------------------------
+
+j-hartmann/sentiment-roberta-large-english-3-classes | score: 0.5424
+Author: j-hartmann
+Pipeline Tag: text-classification
+ReadmeFile, first 100 characters: This RoBERTa-based model can classify the sentiment of English language text in 3 classes:
+
+- positi
+--------------------------------------------------
+
+VincentC12/sentiment_analysis_kara | score: 0.5373
+Author: VincentC12
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: Ce modèle est développé pour KARA.
+
+Ce modèle est :
+  - Un outil d'analyse de sentiment associé à un
+--------------------------------------------------
+
+eevvgg/roberta-base-sentiment-politics | score: 0.5325
+Author: eevvgg
+Pipeline Tag: text-classification
+ReadmeFile, first 100 characters: # eevvgg/sentimenTw-political
+
+This model is a fine-tuned version of multilingual model cardiffnlp/t
+--------------------------------------------------
+
+lysandre/dum | score: 0.5298
+Author: lysandre
+Pipeline Tag: text-classification
+ReadmeFile, first 100 characters: # Sentiment Analysis
+
+This is a BERT model fine-tuned for sentiment analysis.
+--------------------------------------------------
+
+LLM-SocialMedia/Qwen3-8B-Korean-Sentiment | score: 0.5174
+Author: LLM-SocialMedia
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: # Qwen3-8B-Korean-Sentiment
+
+## Overview
+
+This repository contains a fine-tuned model for **Korean S
+--------------------------------------------------
+
+seninoseno/rubert-base-cased-sentiment-study-feedbacks-solyanka | score: 0.5157
+Author: seninoseno
+Pipeline Tag: text-classification
+ReadmeFile, first 100 characters: # RuBERT for Sentiment Analysis of study feedback
+
+This is a blanchefort/rubert-base-cased-sentiment
+--------------------------------------------------
+
+cjvt/sloberta-sentinews-sentence | score: 0.5133
+Author: cjvt
+Pipeline Tag: text-classification
+ReadmeFile, first 100 characters: # sloberta-sentinews-sentence
+
+Slovenian 3-class sentiment classifier - SloBERTa fine-tuned on the s
+--------------------------------------------------
+
+sismetanin/sbert-ru-sentiment-rureviews | score: 0.5133
+Author: sismetanin
+Pipeline Tag: text-classification
+ReadmeFile, first 100 characters: ## SBERT-ru-sentiment-RuReviews
+SBERT-ru-sentiment-RuReviews is a SBERT-Large model fine-tuned on Ru
+--------------------------------------------------
+Number of shortlisted models: 9
+
+
+--- Query 3: Find top models for image classification. ---
+
+bebouky/flipvision | score: 0.5904
+Author: bebouky
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: This is the repository for the upside-down image classification model.
+It is a torch model
+--------------------------------------------------
+
+tmoodley/rare-puppers | score: 0.5871
+Author: tmoodley
+Pipeline Tag: image-classification
+ReadmeFile, first 100 characters: # rare-puppers
+
+Autogenerated by HuggingPics🤗🖼️
+
+Create your own image classifier for **anything** b
+--------------------------------------------------
+
+hrishikeshagi/imageclassifier | score: 0.5838
+Author: hrishikeshagi
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: # -*- coding: utf-8 -*-
+"""imageClassifier.ipynb
+
+Automatically generated by Colaboratory.
+
+Original
+--------------------------------------------------
+
+Nonem100/Test-Model | score: 0.5821
+Author: Nonem100
+Pipeline Tag: image-classification
+ReadmeFile, first 100 characters: # Test-Model
+
+Autogenerated by HuggingPics🤗🖼️
+
+Create your own image classifier for **anything** by 
+--------------------------------------------------
+
+GabCcr99/Clasificador-Ojos-XD | score: 0.5772
+Author: GabCcr99
+Pipeline Tag: image-classification
+ReadmeFile, first 100 characters: # Clasificador-Ojos-XD
+
+Autogenerated by HuggingPics🤗🖼️
+
+Create your own image classifier for **anyt
+--------------------------------------------------
+
+Albe/test-category | score: 0.5757
+Author: Albe
+Pipeline Tag: image-classification
+ReadmeFile, first 100 characters: # test-category
+
+Autogenerated by HuggingPics🤗🖼️
+
+Create your own image classifier for **anything** 
+--------------------------------------------------
+
+Albe/housing-categories | score: 0.5755
+Author: Albe
+Pipeline Tag: image-classification
+ReadmeFile, first 100 characters: # housing-categories
+
+Autogenerated by HuggingPics🤗🖼️
+
+Create your own image classifier for **anythi
+--------------------------------------------------
+
+georgebv/rtbs | score: 0.5753
+Author: georgebv
+Pipeline Tag: image-classification
+ReadmeFile, first 100 characters: # rtbs
+
+Autogenerated by HuggingPics🤗🖼️
+
+Create your own image classifier for **anything** by runnin
+--------------------------------------------------
+
+Ahmed9275/ALL-94.5 | score: 0.5750
+Author: Ahmed9275
+Pipeline Tag: image-classification
+ReadmeFile, first 100 characters: # ALL-94.5
+
+Autogenerated by HuggingPics🤗🖼️
+
+Create your own image classifier for **anything** by ru
+--------------------------------------------------
+Number of shortlisted models: 9
+
+
+--- Query 4: Best models for summarization tasks? ---
+
+pszemraj/bigbird-pegasus-large-K-booksum | score: 0.6229
+Author: pszemraj
+Pipeline Tag: summarization
+ReadmeFile, first 100 characters: # bigbird pegasus on the booksum dataset 
+
+- **GOAL:** A summarization model that 1) summarizes the 
+--------------------------------------------------
+
+ml6team/distilbart-tos-summarizer-tosdr | score: 0.5937
+Author: ml6team
+Pipeline Tag: summarization
+ReadmeFile, first 100 characters: # T&C Summarization Model   
+
+T&C Summarization Model based on sshleifer/distilbart-cnn-6-6, 
+
+This 
+--------------------------------------------------
+
+Falconsai/text_summarization | score: 0.5931
+Author: Falconsai
+Pipeline Tag: summarization
+ReadmeFile, first 100 characters: # Model Card: Fine-Tuned T5 Small for Text Summarization
+
+## Model Description
+
+The **Fine-Tuned T5 
+--------------------------------------------------
+
+Kaludi/Quick-Summarization | score: 0.5920
+Author: Kaludi
+Pipeline Tag: summarization
+ReadmeFile, first 100 characters: # Quick Summarization
+
+This is a Text Summarization Model that has been trained by Kaludi to Transfo
+--------------------------------------------------
+
+sumedh/pegasus | score: 0.5873
+Author: sumedh
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: Work in progress 
+Finetuned model for abstractive summarization coming soon
+--------------------------------------------------
+
+stacked-summaries/flan-t5-large-stacked-xsum-1024 | score: 0.5796
+Author: stacked-summaries
+Pipeline Tag: summarization
+ReadmeFile, first 100 characters: # flan-t5-large-stacked-XSUM-1024
+
+  
+
+This model is a fine-tuned version of google/flan-t5-large on
+--------------------------------------------------
+
+pszemraj/led-large-book-summary | score: 0.5755
+Author: pszemraj
+Pipeline Tag: summarization
+ReadmeFile, first 100 characters: # led-large-book-summary
+
+  
+
+This model is a fine-tuned version of allenai/led-large-16384 on the  
+--------------------------------------------------
+
+pszemraj/long-t5-tglobal-xl-16384-book-summary | score: 0.5720
+Author: pszemraj
+Pipeline Tag: summarization
+ReadmeFile, first 100 characters: # long-t5-tglobal-xl + BookSum
+
+Summarize long text and get a SparkNotes-like summary of any topic!
+
+--------------------------------------------------
+
+stacked-summaries/flan-t5-large-stacked-samsum-1024 | score: 0.5706
+Author: stacked-summaries
+Pipeline Tag: summarization
+ReadmeFile, first 100 characters: # flan-t5-large-stacked-samsum-1024
+
+ 
+  
+
+This model is a fine-tuned version of google/flan-t5-larg
+--------------------------------------------------
+
+mirfan899/usum | score: 0.5583
+Author: mirfan899
+Pipeline Tag: summarization
+ReadmeFile, first 100 characters: Urdu model for abstract summarization.
+--------------------------------------------------
+Number of shortlisted models: 10
+
+
+--- Query 5: What are the newest models for code generation? ---
+
+Salesforce/codegen-350M-nl | score: 0.5651
+Author: Salesforce
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: # CodeGen (CodeGen-NL 350M)
+
+## Model description
+
+CodeGen is a family of autoregressive language mo
+--------------------------------------------------
+
+Salesforce/codegen-6B-nl | score: 0.5475
+Author: Salesforce
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: # CodeGen (CodeGen-NL 6B)
+
+## Model description
+
+CodeGen is a family of autoregressive language mode
+--------------------------------------------------
+
+Salesforce/codegen-2B-nl | score: 0.5469
+Author: Salesforce
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: # CodeGen (CodeGen-NL 2B)
+
+## Model description
+
+CodeGen is a family of autoregressive language mode
+--------------------------------------------------
+
+Salesforce/codegen-16B-nl | score: 0.5398
+Author: Salesforce
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: # CodeGen (CodeGen-NL 16B)
+
+## Model description
+
+CodeGen is a family of autoregressive language mod
+--------------------------------------------------
+
+abacaj/codegen-16B-nl-sharded | score: 0.5367
+Author: abacaj
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: # CodeGen (CodeGen-NL 16B)
+
+## Sharded version of codegen
+
+This model was sharded using torch.float1
+--------------------------------------------------
+
+Salesforce/codegen-2B-multi | score: 0.5310
+Author: Salesforce
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: # CodeGen (CodeGen-Multi 2B)
+
+## Model description
+
+CodeGen is a family of autoregressive language m
+--------------------------------------------------
+
+CarperAI/diff-codegen-350m-v2 | score: 0.5166
+Author: CarperAI
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: # Diff-Codegen-350M v2 Model Card
+
+## Model Description
+
+diff-codegen-350m-v2 is a diff model for co
+--------------------------------------------------
+
+NinedayWang/PolyCoder-2.7B | score: 0.5006
+Author: NinedayWang
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: This is a PolyCoder model with **2.7B** parameters, 
+presented in the paper "A Systematic Evaluation
+--------------------------------------------------
+
+google/codegemma-1.1-2b | score: 0.4980
+Author: google
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: # CodeGemma
+
+Model Page
+: CodeGemma
+
+Resources and Technical Documentation
+: Technical Report
+: Resp
+--------------------------------------------------
+
+google/codegemma-7b-it | score: 0.4965
+Author: google
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: # CodeGemma
+
+Model Page
+: CodeGemma
+
+Resources and Technical Documentation
+: Technical Report
+: Resp
+--------------------------------------------------
+Number of shortlisted models: 10
+
+
+--- Query 6: Top-performing models for question answering? ---
+
+weijiang2009/AlgmonQuestingAnsweringModel-base | score: 0.6151
+Author: weijiang2009
+Pipeline Tag: question-answering
+ReadmeFile, first 100 characters: # algmon-base for QA
+
+This is the base model for QA roberta-base model, fine-tuned using the SQuAD2.
+--------------------------------------------------
+
+aware-ai/roberta-large-squad-classification | score: 0.5632
+Author: aware-ai
+Pipeline Tag: text-classification
+ReadmeFile, first 100 characters: # Roberta-LARGE finetuned on SQuADv2
+
+This is roberta-large model finetuned on SQuADv2 dataset for q
+--------------------------------------------------
+
+potsawee/longformer-large-4096-answering-race | score: 0.5506
+Author: potsawee
+Pipeline Tag: question-answering
+ReadmeFile, first 100 characters: # longformer-large-4096 fine-tuned to RACE for (Multiple-Choice) Question Answering
+- Input: , , 
+- 
+--------------------------------------------------
+
+VMware/bert-large-mrqa | score: 0.5401
+Author: VMware
+Pipeline Tag: question-answering
+ReadmeFile, first 100 characters: This model release is part of a joint research project with Howard University's Innovation Foundry/A
+--------------------------------------------------
+
+PrimeQA/tydi-boolean_question_classifier-xlmr_large-20221117 | score: 0.5358
+Author: PrimeQA
+Pipeline Tag: text-classification
+ReadmeFile, first 100 characters: ## Model description
+
+A question type classification model based on XLM-RoBERTa.
+
+The question type 
+--------------------------------------------------
+
+JDBN/t5-base-fr-qg-fquad | score: 0.5304
+Author: JDBN
+Pipeline Tag: text2text-generation
+ReadmeFile, first 100 characters: # T5 Question Generation and Question Answering
+
+## Model description
+
+This model is a T5 Transforme
+--------------------------------------------------
+
+mishig/temp-model | score: 0.5260
+Author: mishig
+Pipeline Tag: document-question-answering
+ReadmeFile, first 100 characters: # LayoutLM for Visual Question Answering
+
+This is a fine-tuned version of the multi-modal LayoutLM m
+--------------------------------------------------
+
+Salesforce/discord_qa | score: 0.5246
+Author: Salesforce
+Pipeline Tag: question-answering
+ReadmeFile, first 100 characters: Model card for the Question Answering component (component 2) of the Discord Questions paper (EMNLP 
+--------------------------------------------------
+
+google/t5-11b-ssm-wq | score: 0.5215
+Author: google
+Pipeline Tag: text2text-generation
+ReadmeFile, first 100 characters: Google's T5 for **Closed Book Question Answering**.
+
+The model was pre-trained using T5's denoising 
+--------------------------------------------------
+
+mcsabai/huBert-fine-tuned-hungarian-squadv2 | score: 0.5172
+Author: mcsabai
+Pipeline Tag: question-answering
+ReadmeFile, first 100 characters: ## MODEL DESCRIPTION
+
+huBERT base model (cased) fine-tuned on SQuADv2 (NEW!) 
+
+- huBert model + Toke
+--------------------------------------------------
+Number of shortlisted models: 10
+
+
+--- Query 7: Which models support Italian language? ---
+
+DeepMount00/Alireo-400m-instruct-v0.1 | score: 0.5730
+Author: DeepMount00
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: Alireo-400M 🤖 🇮🇹
+A Lightweight Italian Language Model
+
+Model Description 📝
+
+Alireo-400M is a lightwe
+--------------------------------------------------
+
+dbmdz/bert-base-italian-cased | score: 0.5661
+Author: dbmdz
+Pipeline Tag: fill-mask
+ReadmeFile, first 100 characters: # 🤗 + 📚 dbmdz BERT and ELECTRA models
+
+In this repository the MDZ Digital Library team (dbmdz) at th
+--------------------------------------------------
+
+GroNLP/gpt2-medium-italian-embeddings | score: 0.5651
+Author: GroNLP
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: # GPT-2 recycled for Italian (medium, adapted lexical embeddings)
+Wietse de Vries •
+Malvina Nissim
+
+
+--------------------------------------------------
+
+dbmdz/bert-base-italian-xxl-cased | score: 0.5577
+Author: dbmdz
+Pipeline Tag: fill-mask
+ReadmeFile, first 100 characters: # 🤗 + 📚 dbmdz BERT and ELECTRA models
+
+In this repository the MDZ Digital Library team (dbmdz) at th
+--------------------------------------------------
+
+jonatasgrosman/wav2vec2-xls-r-1b-italian | score: 0.5555
+Author: jonatasgrosman
+Pipeline Tag: automatic-speech-recognition
+ReadmeFile, first 100 characters: # Fine-tuned XLS-R 1B model for speech recognition in Italian
+
+Fine-tuned facebook/wav2vec2-xls-r-1b
+--------------------------------------------------
+
+DeepMount00/Anita | score: 0.5438
+Author: DeepMount00
+Pipeline Tag: sentence-similarity
+ReadmeFile, first 100 characters: - **Version:** 2
+- **Release Date:** April 23, 2024
+
+## Intended Use
+This model is designed for the 
+--------------------------------------------------
+
+andreabac3/Fauno-Italian-LLM-13B | score: 0.5376
+Author: andreabac3
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: # Fauno - Italian LLM 
+
+Get ready to meet Fauno -  the Italian language model crafted by the RSTLess
+--------------------------------------------------
+
+joaoalvarenga/wav2vec2-large-xlsr-italian | score: 0.5365
+Author: joaoalvarenga
+Pipeline Tag: automatic-speech-recognition
+ReadmeFile, first 100 characters: # Wav2Vec2-Large-XLSR-53-Italian
+
+Fine-tuned facebook/wav2vec2-large-xlsr-53 on Italian using the Co
+--------------------------------------------------
+
+mrm8488/bert-italian-finedtuned-squadv1-it-alfa | score: 0.5282
+Author: mrm8488
+Pipeline Tag: question-answering
+ReadmeFile, first 100 characters: # Italian BERT fine-tuned on SQuAD_it v1
+
+Italian BERT base cased fine-tuned on italian SQuAD for **
+--------------------------------------------------
+
+dbdmg/wav2vec2-xls-r-300m-italian-robust | score: 0.5257
+Author: dbdmg
+Pipeline Tag: automatic-speech-recognition
+ReadmeFile, first 100 characters: # wav2vec2-xls-r-300m-italian-robust
+
+This model is a fine-tuned version of facebook/wav2vec2-xls-r-
+--------------------------------------------------
+Number of shortlisted models: 10
+
+
+--- Query 8: Best lightweight models for mobile deployment. ---
+
+typeform/mobilebert-uncased-mnli | score: 0.4980
+Author: typeform
+Pipeline Tag: zero-shot-classification
+ReadmeFile, first 100 characters: # Model Card for MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices
+ 
+# Model Det
+--------------------------------------------------
+
+litert-community/Qwen2.5-1.5B-Instruct | score: 0.4857
+Author: litert-community
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: # litert-community/Qwen2.5-1.5B-Instruct
+
+This model provides a few variants of
+Qwen/Qwen2.5-1.5B-In
+--------------------------------------------------
+
+qualcomm/EasyOCR | score: 0.4788
+Author: qualcomm
+Pipeline Tag: image-to-text
+ReadmeFile, first 100 characters: # EasyOCR: Optimized for Mobile Deployment
+## Ready-to-use OCR with 80+ supported languages and all 
+--------------------------------------------------
+
+litert-community/Phi-4-mini-instruct | score: 0.4786
+Author: litert-community
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: # litert-community/Phi-4-mini-instruct
+
+This model provides a few variants of
+microsoft/Phi-4-mini-i
+--------------------------------------------------
+
+pyronear/mobilenet_v3_small | score: 0.4610
+Author: pyronear
+Pipeline Tag: image-classification
+ReadmeFile, first 100 characters: # MobileNet V3 - Small model
+
+Pretrained on a dataset for wildfire binary classification (soon to be
+--------------------------------------------------
+
+litert-community/SmolLM-135M-Instruct | score: 0.4582
+Author: litert-community
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: # litert-community/SmolLM-135M-Instruct
+
+This model provides a few variants of
+HuggingFaceTB/SmolLM-
+--------------------------------------------------
+
+apple/deeplabv3-mobilevit-xx-small | score: 0.4559
+Author: apple
+Pipeline Tag: image-segmentation
+ReadmeFile, first 100 characters: # MobileViT + DeepLabV3 (extra extra small-sized model)
+
+MobileViT model pre-trained on PASCAL VOC a
+--------------------------------------------------
+
+litert-community/DeepSeek-R1-Distill-Qwen-1.5B | score: 0.4441
+Author: litert-community
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: # litert-community/DeepSeek-R1-Distill-Qwen-1.5B
+
+This model provides a few variants of
+deepseek-ai/
+--------------------------------------------------
+
+qualcomm/MediaPipe-Hand-Detection | score: 0.4360
+Author: qualcomm
+Pipeline Tag: object-detection
+ReadmeFile, first 100 characters: # MediaPipe-Hand-Detection: Optimized for Mobile Deployment
+## Real-time hand detection optimized fo
+--------------------------------------------------
+
+openbmb/MiniCPM4-MCP | score: 0.4299
+Author: openbmb
+Pipeline Tag: text-generation
+ReadmeFile, first 100 characters: GitHub Repo |
+Technical Report 
+
+👋 Join us on Discord and WeChat
+
+## What's New
+- 2025.06.06] **Mini
+--------------------------------------------------
+Number of shortlisted models: 10
+
+
+--- Query 9: Which models are most popular on Hugging Face? ---
+
+agiron123/hello_hugging_face | score: 0.5872
+Author: agiron123
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: Creating a simple hugging face model.
+--------------------------------------------------
+
+miyoung/newProject | score: 0.5443
+Author: miyoung
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: ### What's Hugging Face?!!! 
+
+https://towardsdatascience.com/whats-hugging-face-122f4e7eb11a 
+
+Huggi
+--------------------------------------------------
+
+public-data/CelebAMask-HQ-Face-Parsing | score: 0.4767
+Author: public-data
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: # CelebAMask-HQ Face Parsing model
+
+- https://github.com/switchablenorms/CelebAMask-HQ/tree/master/f
+--------------------------------------------------
+
+fastai/fastbook_06_multicat_Biwi_Kinect_Head_Pose | score: 0.4679
+Author: fastai
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: # Amazing!
+
+Congratulations on hosting your fastai model on the Hugging Face Hub!
+
+# Some next steps
+--------------------------------------------------
+
+weedot/weedot | score: 0.4630
+Author: weedot
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: # ⚠️ Type of model/library unknown.
+  
+# Feel free to open a Pull request 
+# for integration of the 
+--------------------------------------------------
+
+pytholic/vit_classification_huggingface | score: 0.4519
+Author: pytholic
+Pipeline Tag: image-classification
+ReadmeFile, first 100 characters: # vit_classification_huggingface
+
+Animal-10 dataset classification using Vision Transformer with Hug
+--------------------------------------------------
+
+simonbuusjensen/a-hugging-face-test-model | score: 0.4519
+Author: simonbuusjensen
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: A hugging face test model
+--------------------------------------------------
+
+Rahmayezza/imagedocks | score: 0.4494
+Author: Rahmayezza
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: # Amazing!
+
+🥳 Congratulations on hosting your fastai model on the Hugging Face Hub!
+
+# Some next ste
+--------------------------------------------------
+
+mahesh006/ai_imagesVsoriginal_images | score: 0.4483
+Author: mahesh006
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: # Amazing!
+
+🥳 Congratulations on hosting your fastai model on the Hugging Face Hub!
+
+# Some next ste
+--------------------------------------------------
+
+fastai/fastbook_06_multicat_PASCAL | score: 0.4421
+Author: fastai
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: # Amazing!
+
+Congratulations on hosting your fastai model on the Hugging Face Hub!
+
+# Some next steps
+--------------------------------------------------
+Number of shortlisted models: 10
+
+
+--- Query 10: Find models optimized for speed and low latency. ---
+
+huawei-noah/AutoTinyBERT-KD-S2 | score: 0.5226
+Author: huawei-noah
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: Pre-trained language models (PLMs) have achieved great success in natural language processing. Most 
+--------------------------------------------------
+
+codelion/optillm-modernbert-large | score: 0.5132
+Author: codelion
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: # How to use?
+
+This model is used in optillm to route between the various approaches based on the pr
+--------------------------------------------------
+
+tryolabs/bert-large-uncased-wwm-squadv2-optimized-f16 | score: 0.5055
+Author: tryolabs
+Pipeline Tag: question-answering
+ReadmeFile, first 100 characters: ## bert-large-uncased-wwm-squadv2-optimized-f16
+
+This is an optimized model using madlag/bert-large-
+--------------------------------------------------
+
+philschmid/roberta-base-squad2-optimized | score: 0.5034
+Author: philschmid
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: # Optimized and Quantized deepset/roberta-base-squad2 with a custom handler.py
+
+This repository impl
+--------------------------------------------------
+
+NimaBoscarino/efficientformer-l1-300 | score: 0.4807
+Author: NimaBoscarino
+Pipeline Tag: image-classification
+ReadmeFile, first 100 characters: # EfficientFormer-L1
+
+## Table of Contents
+- EfficientFormer-L1
+  - Table of Contents
+  - Model Deta
+--------------------------------------------------
+
+snap-research/efficientformer-l7-300 | score: 0.4789
+Author: snap-research
+Pipeline Tag: image-classification
+ReadmeFile, first 100 characters: # EfficientFormer-L7
+
+## Table of Contents
+- EfficientFormer-L7
+  - Table of Contents
+  - Model Deta
+--------------------------------------------------
+
+aws-neuron/optimum-neuron-cache | score: 0.4783
+Author: aws-neuron
+Pipeline Tag: nan
+ReadmeFile, first 100 characters: # AWS Neuron optimum model cache
+
+This repository contains cached neuron compilation artifacts for t
+--------------------------------------------------
+
+coreml-community/coreml-Roboetics-mix | score: 0.4760
+Author: coreml-community
+Pipeline Tag: text-to-image
+ReadmeFile, first 100 characters: # Core ML Converted Model:
+
+  - This model was converted to Core ML for use on Apple Silicon devices
+--------------------------------------------------
+
+snap-research/efficientformer-l3-300 | score: 0.4720
+Author: snap-research
+Pipeline Tag: image-classification
+ReadmeFile, first 100 characters: # EfficientFormer-L1
+
+## Table of Contents
+- EfficientFormer-L1
+  - Table of Contents
+  - Model Deta
+--------------------------------------------------
+
+NimaBoscarino/efficientformer-l3-300 | score: 0.4708
+Author: NimaBoscarino
+Pipeline Tag: image-classification
+ReadmeFile, first 100 characters: # EfficientFormer-L3
+
+## Table of Contents
+- EfficientFormer-L3
+  - Table of Contents
+  - Model Deta
+--------------------------------------------------
+Number of shortlisted models: 10
+
