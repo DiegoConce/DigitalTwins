@@ -26,7 +26,12 @@ The [Results](https://github.com/DiegoConce/DigitalTwins/tree/master/Results) di
 - `models_results.txt` – RAG results for Hugging Face model metadata using standard (unweighted) embeddings.
 - `models_results_weighted_emb.txt` – RAG results for Hugging Face model metadata using **weighted** embeddings.
 
+---
 
+### Demo Directory
+The [Demo](https://github.com/DiegoConce/DigitalTwins/tree/master/Demo) directory contains an example script that allows you to filter and rank models or datasets from a CSV file based on a natural language query.<br>
+It uses a two-stage process: first, it finds the most similar items using embeddings, and then it uses a large language model to re-rank them for relevance.<br>
+The script is designed to be run from the command line and requires a CSV file with pre-computed embeddings for each item. The demo includes sample CSV files for both models and datasets, which can be used for quick testing and demonstration purposes.
 
 
 
